@@ -1,0 +1,19 @@
+{
+  "name": "douyin-api",
+  "version": "1.0.0",
+  "description": "Douyin Scraping.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zhameng",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.6.2",
+    "ejs": "^3.1.6"
+  }
+}
